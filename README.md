@@ -1,0 +1,1 @@
+These are a bunch of VST/AU I made because I'm teaching a class on effects design. I'm not going to pretend they are anything other than demos for showing the basics, but they do what they claim to do. You may have to override some permissions on your mac.
